@@ -1,2 +1,2 @@
 # language_processing
-Stuff related to assignment
+Assignment 2. CS438
